@@ -1,0 +1,62 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.carousel-caption {
+    top: 52%; 
+    transform: translate(-50%, -50%); 
+    position: absolute; left: 50%; 
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#sambutan {
+    margin-top: 60px;
+}
+
+.gambar-ketua {
+    width: 500px;
+    height: 350px;
+    background: #171A39;
+    border-radius: 30px 0px 0px 30px;
+    margin-left:auto;
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+}
+
+.img-ketua {
+    width: 20%;
+    transform: rotateY(180deg);
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    background-color: #171A39;
+    margin-left: 20px;
+}
+
+#sejarah {
+    background-color: #171A39;
+    margin-top: 73px;
+    height: 400px;
+}
+
+#visi-misi {
+    background-color: #FFE012;
+    margin-top: 0;
+}
+
+.visi {
+    text-align: center;
+}
